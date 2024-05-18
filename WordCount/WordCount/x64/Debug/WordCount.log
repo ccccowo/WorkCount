@@ -1,0 +1,4 @@
+﻿  WordCount.cpp
+D:\Store\WorkCount\WordCount\WordCount\WordCount.cpp(5,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\Store\WorkCount\WordCount\WordCount\WordCount.cpp(5,1): message : 之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  WordCount.vcxproj -> D:\Store\WorkCount\WordCount\x64\Debug\WordCount.exe
